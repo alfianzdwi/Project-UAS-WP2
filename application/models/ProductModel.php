@@ -30,7 +30,7 @@ class ProductModel extends CI_Model {
 			return $data;
 	}
 	
-	//Fungsi Untuk Mendapatkan Data Produk Top
+	//Fungsi Untuk Mendapatkan Data Produk Top/Teratas dipanggil di class view slider.php
 	public function get_all_pro_top(){
 		$data = $this->db->select('*')
 			->from('produk')

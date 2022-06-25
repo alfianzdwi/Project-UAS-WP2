@@ -24,7 +24,7 @@
 				<div class="col-sm-6">
 					<h1><span>ADOY</span> BAKERY</h1>
 					<h2><?php echo $slider->judul_pro;?></h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+					<p>Tempat Beli Kue Ter-Enak Di Dunia!! Dijamin Murah Dan Berkualitas </p>
 				</div>
 				<div class="col-sm-6">
 					<img src="<?php echo base_url().$slider->gambar_pro;?>" class="girl img-responsive" alt="" />

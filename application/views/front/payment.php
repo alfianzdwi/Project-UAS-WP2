@@ -85,9 +85,6 @@
 							<span>
 								<label><input type="radio"  name="metode_pembayaran" value="cash_on_delivery"> Cash on delivery(COD)</label>
 							</span>
-							<!-- <span>
-								<label><input type="radio"  name="metode_pembayaran" value="paypal_payment"> Paypal</label>
-							</span> -->
 							<span>
 								<input type="submit" name="btn" class="btn btn-primary" value="Pesan">
 							</span>
